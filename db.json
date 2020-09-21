@@ -11,85 +11,99 @@
 		"id":2,
 		"titulo":"Iguales mi culpa por esperar algode ti",
 		"Autor":"pedacito",
-		"precio": 4000
+		"precio": 4000,
+		"foto": "https://i.pinimg.com/originals/a7/42/d5/a742d5e3403d01397e9c578c1444d94d.png"		
 		},
 		{
 		"id":3,
 		"titulo":"Entre dos universos",
 		"Autor":"Andrea Tomé",
-		"precio": 4400
+		"precio": 4400,
+		"foto": "https://i.pinimg.com/originals/6d/99/2b/6d992b43ca23fa0a5d25f2be8c11a33d.jpg"
 		},
 		{
 		"id":4,
 		"titulo":"Nadie se muere de esto",
 		"Autor":"Fátima Casaseca",
-		"precio": 5500
+		"precio": 5500,
+		"foto": "https://i.pinimg.com/originals/0d/b9/65/0db9652763e7b2fc6a690e714e0e6987.jpg"
 		},
 		{
 		"id":5,
 		"titulo":"Mamá no dice la verdad",
 		"Autor":"Michael bussi",
-		"precio": 6000
+		"precio": 6000,
+		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
 		},
 		{
 		"id":6,
 		"titulo":"Puntoy seguido",
 		"Autor":"Meme Martin",
-		"precio": 3000
+		"precio": 3000,
+		"foto": "https://i.pinimg.com/originals/ff/cf/82/ffcf82e211422169ee79eff68ffe5766.jpg"
 		},
 		{
 		"id":7,
 		"titulo":"El cartero siempre llama dos veces",
 		"Autor":"James M. cain",
-		"precio": 3500
+		"precio": 3500",
+		"foto": "https://i.pinimg.com/originals/a1/d8/62/a1d862071d8b6c1b71e2aa40954dfa35.jpg"			
 		},
 		{
 		"id":8,
 		"titulo":"39 cafés y un desayuno",
 		"Autor":"Lidia Herbada",
-		"precio": 6500
+		"precio": 6500,
+		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
 		},
 		{
 		"id":9,
 		"titulo":"Uno más uno",
 		"Autor":"Jojo moyes",
-		"precio": 2000
+		"precio": 2000,
+		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
 		},
 		{
 		"id":10,
 		"titulo":"No es mi hija",
 		"Autor":"sophie hannah",
-		"precio": 7000
+		"precio": 7000,
+		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
 		},
 		{
 		"id":11,
 		"titulo":"A través de mi ventana",
 		"Autor":"Ariana Godoy",
-		"precio": 7500
+		"precio": 7500,
+		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
 		},
 		{
 		"id":12,
 		"titulo":"Sonrisas en júpiter",
 		"Autor":"Ema zuemaeta",
-		"precio": 8000
+		"precio": 8000,
+		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
 		},
 		{
 		"id":13,
 		"titulo":"El nombre propio de la felicidad",
 		"Autor":"maria Jeunet",
-		"precio": 8500
+		"precio": 8500,
+		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
 		},
 		{
 		"id":14,
 		"titulo":"La ira de los elegidos",
 		"Autor":"Ray bolivar",
-		"precio": 1000
+		"precio": 1000,
+		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
 		},
 		{
 		"id":15,
 		"titulo":"Nunca digas nunca",
 		"Autor":"Amy lab",
-		"precio": 1500
+		"precio": 1500,
+		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
 		}
 	]	
 }
