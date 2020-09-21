@@ -4,7 +4,8 @@
 		"id":1,
 		"titulo":"¿y si te vuelvo a encontrar?",
 		"Autor":"Carol B.A.",
-		"precio": 5000
+		"precio": 5000,
+		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
 		},
 		{
 		"id":2,
