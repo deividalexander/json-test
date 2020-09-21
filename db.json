@@ -46,7 +46,7 @@
 		"id":7,
 		"titulo":"El cartero siempre llama dos veces",
 		"Autor":"James M. cain",
-		"precio": 3500",
+		"precio": 3500,
 		"foto": "https://i.pinimg.com/originals/a1/d8/62/a1d862071d8b6c1b71e2aa40954dfa35.jpg"			
 		},
 		{
@@ -69,7 +69,43 @@
 		"Autor":"sophie hannah",
 		"precio": 7000,
 		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
+		},
+		{
+		"id":11,
+		"titulo":"A través de mi ventana",
+		"Autor":"Ariana Godoy",
+		"precio": 7500,
+		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
+		},
+		{
+		"id":12,
+		"titulo":"Sonrisas en júpiter",
+		"Autor":"Ema zuemaeta",
+		"precio": 8000,
+		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
+		},
+		{
+		"id":13,
+		"titulo":"El nombre propio de la felicidad",
+		"Autor":"maria Jeunet",
+		"precio": 8500,
+		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
+		},
+		{
+		"id":14,
+		"titulo":"La ira de los elegidos",
+		"Autor":"Ray bolivar",
+		"precio": 1000,
+		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
+		},
+		{
+		"id":15,
+		"titulo":"Nunca digas nunca",
+		"Autor":"Amy lab",
+		"precio": 1500,
+		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
 		}
+
 		
 	]	
 }
