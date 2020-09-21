@@ -41,69 +41,6 @@
 		"Autor":"Meme Martin",
 		"precio": 3000,
 		"foto": "https://i.pinimg.com/originals/ff/cf/82/ffcf82e211422169ee79eff68ffe5766.jpg"
-		},
-		{
-		"id":7,
-		"titulo":"El cartero siempre llama dos veces",
-		"Autor":"James M. cain",
-		"precio": 3500",
-		"foto": "https://i.pinimg.com/originals/a1/d8/62/a1d862071d8b6c1b71e2aa40954dfa35.jpg"			
-		},
-		{
-		"id":8,
-		"titulo":"39 cafés y un desayuno",
-		"Autor":"Lidia Herbada",
-		"precio": 6500,
-		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
-		},
-		{
-		"id":9,
-		"titulo":"Uno más uno",
-		"Autor":"Jojo moyes",
-		"precio": 2000,
-		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
-		},
-		{
-		"id":10,
-		"titulo":"No es mi hija",
-		"Autor":"sophie hannah",
-		"precio": 7000,
-		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
-		},
-		{
-		"id":11,
-		"titulo":"A través de mi ventana",
-		"Autor":"Ariana Godoy",
-		"precio": 7500,
-		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
-		},
-		{
-		"id":12,
-		"titulo":"Sonrisas en júpiter",
-		"Autor":"Ema zuemaeta",
-		"precio": 8000,
-		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
-		},
-		{
-		"id":13,
-		"titulo":"El nombre propio de la felicidad",
-		"Autor":"maria Jeunet",
-		"precio": 8500,
-		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
-		},
-		{
-		"id":14,
-		"titulo":"La ira de los elegidos",
-		"Autor":"Ray bolivar",
-		"precio": 1000,
-		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
-		},
-		{
-		"id":15,
-		"titulo":"Nunca digas nunca",
-		"Autor":"Amy lab",
-		"precio": 1500,
-		"foto": "https://i.pinimg.com/originals/93/f3/17/93f3171729d1527b0e6491a6fa63cb53.jpg"
 		}
 	]	
 }
